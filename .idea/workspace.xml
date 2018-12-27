@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="561464c3-e626-4195-9ac8-6a6b27b47e63" name="Default" comment="" />
+    <list default="true" id="561464c3-e626-4195-9ac8-6a6b27b47e63" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +19,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="85">
-                <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+                <caret line="5" column="25" lean-forward="false" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -71,13 +73,13 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1545900452323" expanded="true" signature="94:477" ph="..." />
-                <marker date="1545900452323" expanded="true" signature="107:462" ph="..." />
-                <marker date="1545900452323" expanded="true" signature="142:448" ph="..." />
-                <marker date="1545900452323" expanded="true" signature="161:433" ph="..." />
-                <marker date="1545900452323" expanded="true" signature="235:413" ph="..." />
-                <marker date="1545900452323" expanded="true" signature="275:379" ph="..." />
-                <marker date="1545900452323" expanded="true" signature="296:357" ph="..." />
+                <marker date="1545902069096" expanded="true" signature="94:477" ph="..." />
+                <marker date="1545902069096" expanded="true" signature="107:462" ph="..." />
+                <marker date="1545902069096" expanded="true" signature="142:448" ph="..." />
+                <marker date="1545902069096" expanded="true" signature="161:433" ph="..." />
+                <marker date="1545902069096" expanded="true" signature="235:413" ph="..." />
+                <marker date="1545902069096" expanded="true" signature="275:379" ph="..." />
+                <marker date="1545902069096" expanded="true" signature="296:357" ph="..." />
               </folding>
             </state>
           </provider>
@@ -87,7 +89,7 @@
         <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+              <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -109,10 +111,10 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
-                <marker date="1545901742547" expanded="true" signature="47214:47233" ph="..." />
-                <marker date="1545901742547" expanded="true" signature="47214:47251" ph="..." />
-                <marker date="1545901742547" expanded="true" signature="47214:47264" ph="..." />
-                <marker date="1545901742547" expanded="true" signature="47214:47279" ph="..." />
+                <marker date="1545902090891" expanded="true" signature="56052:56071" ph="..." />
+                <marker date="1545902090891" expanded="true" signature="56052:56089" ph="..." />
+                <marker date="1545902090891" expanded="true" signature="56052:56102" ph="..." />
+                <marker date="1545902090891" expanded="true" signature="56052:56117" ph="..." />
               </folding>
             </state>
           </provider>
@@ -666,7 +668,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2976000" />
+    <option name="totallyTimeSpent" value="2992000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -769,13 +771,13 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1545900452323" expanded="true" signature="94:477" ph="..." />
-            <marker date="1545900452323" expanded="true" signature="107:462" ph="..." />
-            <marker date="1545900452323" expanded="true" signature="142:448" ph="..." />
-            <marker date="1545900452323" expanded="true" signature="161:433" ph="..." />
-            <marker date="1545900452323" expanded="true" signature="235:413" ph="..." />
-            <marker date="1545900452323" expanded="true" signature="275:379" ph="..." />
-            <marker date="1545900452323" expanded="true" signature="296:357" ph="..." />
+            <marker date="1545902069096" expanded="true" signature="94:477" ph="..." />
+            <marker date="1545902069096" expanded="true" signature="107:462" ph="..." />
+            <marker date="1545902069096" expanded="true" signature="142:448" ph="..." />
+            <marker date="1545902069096" expanded="true" signature="161:433" ph="..." />
+            <marker date="1545902069096" expanded="true" signature="235:413" ph="..." />
+            <marker date="1545902069096" expanded="true" signature="275:379" ph="..." />
+            <marker date="1545902069096" expanded="true" signature="296:357" ph="..." />
           </folding>
         </state>
       </provider>
@@ -801,10 +803,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1545901742547" expanded="true" signature="47214:47233" ph="..." />
-            <marker date="1545901742547" expanded="true" signature="47214:47251" ph="..." />
-            <marker date="1545901742547" expanded="true" signature="47214:47264" ph="..." />
-            <marker date="1545901742547" expanded="true" signature="47214:47279" ph="..." />
+            <marker date="1545902090891" expanded="true" signature="56052:56071" ph="..." />
+            <marker date="1545902090891" expanded="true" signature="56052:56089" ph="..." />
+            <marker date="1545902090891" expanded="true" signature="56052:56102" ph="..." />
+            <marker date="1545902090891" expanded="true" signature="56052:56117" ph="..." />
           </folding>
         </state>
       </provider>
@@ -830,13 +832,13 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1545900452323" expanded="true" signature="94:477" ph="..." />
-            <marker date="1545900452323" expanded="true" signature="107:462" ph="..." />
-            <marker date="1545900452323" expanded="true" signature="142:448" ph="..." />
-            <marker date="1545900452323" expanded="true" signature="161:433" ph="..." />
-            <marker date="1545900452323" expanded="true" signature="235:413" ph="..." />
-            <marker date="1545900452323" expanded="true" signature="275:379" ph="..." />
-            <marker date="1545900452323" expanded="true" signature="296:357" ph="..." />
+            <marker date="1545902069096" expanded="true" signature="94:477" ph="..." />
+            <marker date="1545902069096" expanded="true" signature="107:462" ph="..." />
+            <marker date="1545902069096" expanded="true" signature="142:448" ph="..." />
+            <marker date="1545902069096" expanded="true" signature="161:433" ph="..." />
+            <marker date="1545902069096" expanded="true" signature="235:413" ph="..." />
+            <marker date="1545902069096" expanded="true" signature="275:379" ph="..." />
+            <marker date="1545902069096" expanded="true" signature="296:357" ph="..." />
           </folding>
         </state>
       </provider>
@@ -854,10 +856,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1545901742547" expanded="true" signature="47214:47233" ph="..." />
-            <marker date="1545901742547" expanded="true" signature="47214:47251" ph="..." />
-            <marker date="1545901742547" expanded="true" signature="47214:47264" ph="..." />
-            <marker date="1545901742547" expanded="true" signature="47214:47279" ph="..." />
+            <marker date="1545902090891" expanded="true" signature="56052:56071" ph="..." />
+            <marker date="1545902090891" expanded="true" signature="56052:56089" ph="..." />
+            <marker date="1545902090891" expanded="true" signature="56052:56102" ph="..." />
+            <marker date="1545902090891" expanded="true" signature="56052:56117" ph="..." />
           </folding>
         </state>
       </provider>
@@ -891,6 +893,166 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="85">
             <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/Hello-World.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1545902069096" expanded="true" signature="94:477" ph="..." />
+            <marker date="1545902069096" expanded="true" signature="107:462" ph="..." />
+            <marker date="1545902069096" expanded="true" signature="142:448" ph="..." />
+            <marker date="1545902069096" expanded="true" signature="161:433" ph="..." />
+            <marker date="1545902069096" expanded="true" signature="235:413" ph="..." />
+            <marker date="1545902069096" expanded="true" signature="275:379" ph="..." />
+            <marker date="1545902069096" expanded="true" signature="296:357" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1545902090891" expanded="true" signature="56052:56071" ph="..." />
+            <marker date="1545902090891" expanded="true" signature="56052:56089" ph="..." />
+            <marker date="1545902090891" expanded="true" signature="56052:56102" ph="..." />
+            <marker date="1545902090891" expanded="true" signature="56052:56117" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/Hello-World.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1545902069096" expanded="true" signature="94:477" ph="..." />
+            <marker date="1545902069096" expanded="true" signature="107:462" ph="..." />
+            <marker date="1545902069096" expanded="true" signature="142:448" ph="..." />
+            <marker date="1545902069096" expanded="true" signature="161:433" ph="..." />
+            <marker date="1545902069096" expanded="true" signature="235:413" ph="..." />
+            <marker date="1545902069096" expanded="true" signature="275:379" ph="..." />
+            <marker date="1545902069096" expanded="true" signature="296:357" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1545902090891" expanded="true" signature="56052:56071" ph="..." />
+            <marker date="1545902090891" expanded="true" signature="56052:56089" ph="..." />
+            <marker date="1545902090891" expanded="true" signature="56052:56102" ph="..." />
+            <marker date="1545902090891" expanded="true" signature="56052:56117" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/af">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="4" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="85">
+            <caret line="5" column="25" lean-forward="false" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
             <folding />
           </first_editor>
           <second_editor />
